@@ -20,3 +20,10 @@ var multiply = function(num1,num2){
 };
 var multiply_result = num1 * num2;
 alert("The multiple of your numbers is " + multiply_result); 
+
+// Division
+var divide = function(num1,num2){
+    return num1 / num2;
+};
+var division_result = num1 / num2;
+alert("The division of your numbers is " + division_result); 
